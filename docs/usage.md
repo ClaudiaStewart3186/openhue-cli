@@ -6,3 +6,4 @@ Notes and usage details for openhue-cli.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
